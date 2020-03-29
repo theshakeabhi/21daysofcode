@@ -2,7 +2,7 @@
 
 <!-- TEMPLETE
 
-## Day : March 2020
+## Day : March 2020, day
 
 START-TIME: 
 END-TIME: 
@@ -18,11 +18,11 @@ END-TIME:
 
 -->
 
-## Day 0 : 26 March 2020
+## Day 0 : 26 March 2020, Thursday
 
 **It's my birthday today and I thought I would give it a pass as it's Day 0. I know it's procastination but, I really really need this. So will be doing some extra time the next day.**
 
-## Day 1 : 27 March 2020
+## Day 1 : 27 March 2020, Friday
 
 **Thoughts before starting: It feels like a good day to start learning and doing something productive. I would be making efforts in reitrating the JS basics again.**
 
@@ -32,7 +32,7 @@ END-TIME:
 
 **Next day rough plan: Will be completinng excercise of Chapter 2, and will be moving to Chapter 3**
 
-## Day : 28 March 2020
+## Day 2 : 28 March 2020, Saturday
 
 **Thoughts before starting: Surprising making time for this. Spent my time from morining to noon in BLENDER. I guess qurantine makes you try all the stuff. So looking forward to complete that excersie, optimise it, and move to next chapter.**
 
@@ -41,3 +41,16 @@ END-TIME:
 **Thoughts on today's progress:By doing that almost and hour went by. This is getting intresting and it's TIME CONSUMING. Will be focusing on this in the morning and BLENDER after this.**
 
 **Next day rough plan: 3rd Chapter is about Function, will be starting that tommorow.**
+
+## Day 3 : 29 March 2020, Sunday
+
+START-TIME: 21:55 
+END-TIME: 22:30
+
+**Thoughts before starting: Thought I would be spending the morning half in this, but got glued to BLENDER. But today will be focusing on the chapter 3 which deals with function. so I don't know whether I will be able to reach the excercise section, but going to push hard. And my neck and back pains (needs to adjust posture)**
+
+**Today's progress: Started with Chapter 3, completed few sub chapters.**
+
+**Thoughts on today's progress: Ooookhay, studying at this point of time is not as productive as in the morning seesion I guess, getting tired and distracted easily, will be moving to morning session from tommorow.**
+
+**Next day rough plan: Complete chapter 3? Wiil do it tommorow :spells wrong, too lazy to google:**
