@@ -4,7 +4,7 @@
 
 ## Day : March 2020, day
 
-START-TIME: 
+START-TIME:  <br>
 END-TIME: 
 
 **Thoughts before starting:**
@@ -14,7 +14,6 @@ END-TIME:
 **Thoughts on today's progress:**
 
 **Next day rough plan:**
-
 
 -->
 
@@ -44,7 +43,7 @@ END-TIME:
 
 ## Day 3 : 29 March 2020, Sunday
 
-START-TIME: 21:55 
+START-TIME: 21:55 <br>
 END-TIME: 22:30
 
 **Thoughts before starting: Thought I would be spending the morning half in this, but got glued to BLENDER. But today will be focusing on the chapter 3 which deals with function. so I don't know whether I will be able to reach the excercise section, but going to push hard. And my neck and back pains (needs to adjust posture)**
@@ -54,3 +53,16 @@ END-TIME: 22:30
 **Thoughts on today's progress: Ooookhay, studying at this point of time is not as productive as in the morning seesion I guess, getting tired and distracted easily, will be moving to morning session from tommorow.**
 
 **Next day rough plan: Complete chapter 3? Wiil do it tommorow :spells wrong, too lazy to google:**
+
+## Day 4 : 30 March 2020, Monday
+
+START-TIME: 17:25  <br>
+END-TIME: 18:08
+
+**Thoughts before starting: Today was moreover a lazy day, I didn't do BLENDER in the morining session also, I wouldn't have been working if not my friend wasn't there to whoop my ass over phone to do work, so yeah, planing to finish the chapter 3 and start the excercises, because I have to complete till Chapter 6 so that I can do problems on HackerRank. So yeah, that it for now.**
+
+**Today's progress: Just two submodules of chapter 3**
+
+**Thoughts on today's progress: Okay, was getting super distracted becaus eeverytime I read the book what comes to mind is how to be better at BLENDER, this is confusing, will have to figure a way out. Possibly because of BLENDER is something I wanna do more than coding right now, I don't know how long that will be but will have to balance it. I have sitting till like 1800 hours now but barely read for 5 minutes. So need to balance the urge.**
+
+**Next day rough plan: Not planning to much, plans to focus on the time while I am coding.**
